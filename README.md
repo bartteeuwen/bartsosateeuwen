@@ -8,11 +8,24 @@ My work sits at the intersection of people analytics, data science, cloud infras
 
 ## Featured Projects
 
-- **Strategic FinOps Agent** — GenAI-powered cloud cost analysis prototype using Gemini, BigQuery, and Streamlit to analyze billing data, identify cost drivers, forecast spend, and generate business recommendations.
-- **Labor Market Data Engineering Pipeline** — ELT pipeline using public labor market data, BigQuery, GitHub Actions, and Looker Studio to support labor market intelligence and workforce planning.
-- **Autonomous Vehicle Interaction Complexity Analysis** — Applied data science project using Waymo motion data to classify complex multi-agent road interactions for autonomous vehicle risk awareness.
-- **Renewable Energy Forecasting for AI Data Centers** — Machine learning workflow forecasting whether North American renewable energy capacity can support projected AI data center electricity demand.
-- **Agentic AI CRM Decision System** — Evaluation of whether an agentic AI system can safely and reliably decide when to take action in CRM workflows while balancing accuracy, control, and deployment risk.
+### [Cloud-Based ML & MLOps for AR Smart Glasses](https://github.com/bartteeuwen/USD-Data-Science-Cloud-Computing-Class)
+End-to-end machine learning and MLOps project focused on predicting user discomfort in AR smart glasses using behavioral interaction data.
+
+**Focus areas:** Machine learning, MLOps, AWS SageMaker, behavioral data, model deployment
+
+---
+
+### [Agentic AI Decision System for CRM Workflows](https://github.com/bartteeuwen/USD-Applied-Data-Science-for-Business)
+Evaluated whether an agentic AI system can safely and reliably decide when to take action in CRM workflows while balancing accuracy, control, and deployment risk.
+
+**Focus areas:** Agentic AI, CRM workflows, tool invocation, decision thresholds, risk management
+
+---
+
+### [Renewable Energy Forecasting for AI Data Centers](https://github.com/bartteeuwen/USD-ML-and-DL-for-Data-Science)
+Built an applied machine learning workflow to forecast whether North American renewable energy capacity can keep pace with projected AI data center electricity demand by 2028.
+
+**Focus areas:** Forecasting, supervised machine learning, energy infrastructure, data center growth, model evaluation
 
 ---
 
